@@ -7,7 +7,7 @@ import "../styles/Main.css";
 
 
 function Main() {
-    const API_KEY = "a56dda55555d42c3429fc12a0989d99c";
+    const API_KEY = "";
     const [info, setInfo] = React.useState({
         days: undefined,
         name: undefined,
